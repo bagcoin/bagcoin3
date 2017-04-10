@@ -1,0 +1,6 @@
+{
+    "name": "Bagcoin",
+    "symbol": "BGC",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}
